@@ -1,10 +1,5 @@
 # SmartPay Analytics - Product Analytics & Strategy Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-orange.svg)](https://powerbi.microsoft.com/desktop/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
-
 ## 🎯 Project Overview
 
 SmartPay Analytics is a comprehensive product analytics and strategy dashboard designed to provide data-driven insights for a digital wallet application. This project transforms raw transaction data into actionable business intelligence through advanced analytics, predictive modeling, and strategic recommendations.
